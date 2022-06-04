@@ -7,3 +7,6 @@
 [submodule "api-usuario"]
 	path = api-usuario
 	url = https://github.com/tulioviglione/api-usuario.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/tulioviglione/config-server.git
