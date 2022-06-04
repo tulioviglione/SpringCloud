@@ -13,3 +13,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = https://github.com/tulioviglione/eureka.git
+[submodule "configCloud"]
+	path = configCloud
+	url = https://github.com/tulioviglione/configCloud.git
