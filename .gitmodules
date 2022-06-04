@@ -10,3 +10,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/tulioviglione/config-server.git
+[submodule "eureka"]
+	path = eureka
+	url = https://github.com/tulioviglione/eureka.git
