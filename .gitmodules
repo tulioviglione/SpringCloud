@@ -4,3 +4,6 @@
 [submodule "api-conta"]
 	path = api-conta
 	url = https://github.com/tulioviglione/api-conta.git
+[submodule "api-usuario"]
+	path = api-usuario
+	url = https://github.com/tulioviglione/api-usuario.git
